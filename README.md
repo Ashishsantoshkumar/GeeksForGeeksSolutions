@@ -16,6 +16,7 @@
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -32,11 +33,13 @@
 ## two-pointer-algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
 ## Sort Array Two Halves Sorted
@@ -44,5 +47,21 @@
 | ------- | ------- |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
+## Arrays
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+
+## Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+
+## Unique Triplets Sum Given Value
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
