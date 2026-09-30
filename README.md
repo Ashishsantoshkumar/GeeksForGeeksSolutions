@@ -4,6 +4,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -20,13 +21,21 @@
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
+
+## Microsoft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
 
 
 
+
 <hr>
+
 
 
 
@@ -55,6 +64,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
@@ -66,11 +76,13 @@
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 
 ## Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 
 ## Unique Triplets Sum Given Value
@@ -103,7 +115,13 @@
 | ------- | ------- |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
 
+## Find K Numbers Occurrences Given Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
