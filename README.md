@@ -42,6 +42,7 @@
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -58,6 +59,7 @@
 ## two-pointer-algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
@@ -77,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
+| [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 
 ## Hash
@@ -121,6 +124,7 @@
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
