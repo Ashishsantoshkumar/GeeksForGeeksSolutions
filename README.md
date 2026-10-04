@@ -149,6 +149,7 @@
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -174,6 +175,7 @@
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+| [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
 ## Sort Array Two Halves Sorted
@@ -187,6 +189,7 @@
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+| [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Hash
@@ -233,6 +236,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## All Variations Of Stock Problems
@@ -246,6 +250,7 @@
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
