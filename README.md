@@ -150,6 +150,7 @@
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -249,7 +250,18 @@
 | ------- | ------- |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
+## Searching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [super-primes](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/super-primes/) | Medium |
+
+## Super Prime
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [super-primes](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/super-primes/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
