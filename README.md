@@ -6,6 +6,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
+| [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
 
 ## Bloomberg
 | Problem Name | Difficulty |
@@ -133,13 +135,20 @@
 | ------- | ------- |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
 
 
 
+
 <hr>
+
 
 
 
@@ -254,13 +263,30 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [super-primes](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/super-primes/) | Medium |
+| [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
 
 ## Super Prime
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [super-primes](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/super-primes/) | Medium |
 
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
+
+## Design-Pattern
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
+
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
