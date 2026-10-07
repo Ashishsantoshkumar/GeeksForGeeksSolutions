@@ -7,6 +7,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
+| [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
 
 ## Microsoft
@@ -147,7 +149,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -167,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [panagram-checking](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/panagram-checking/) | Easy |
+| [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 
 ## Pangram Checking
 | Problem Name | Difficulty |
@@ -285,7 +290,13 @@
 | ------- | ------- |
 | [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
 
+## Find Uncommon Characters Two Strings
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
