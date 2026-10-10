@@ -8,6 +8,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
+| [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 | [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
@@ -105,6 +107,7 @@
 ## TCS
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Adobe
@@ -150,7 +153,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -171,6 +176,7 @@
 ## Strings
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [panagram-checking](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/panagram-checking/) | Easy |
 | [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 
@@ -308,7 +314,13 @@
 | ------- | ------- |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
 
+## Mathematics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
