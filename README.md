@@ -9,6 +9,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -67,6 +68,7 @@
 ## Samsung
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Yahoo
@@ -113,6 +115,7 @@
 ## Adobe
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Google
@@ -154,7 +157,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -317,9 +322,16 @@
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 
+## Program Find Sum Prime Numbers 1 N
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
