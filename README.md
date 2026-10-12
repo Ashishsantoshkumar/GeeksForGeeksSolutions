@@ -11,6 +11,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -105,6 +106,7 @@
 ## Goldman Sachs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## TCS
@@ -160,7 +162,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -220,6 +224,7 @@
 | [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
+| [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
@@ -228,6 +233,7 @@
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+| [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 
 ## Unique Triplets Sum Given Value
 | Problem Name | Difficulty |
@@ -327,6 +333,7 @@
 | ------- | ------- |
 | [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
+| [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 
 ## Program Find Sum Prime Numbers 1 N
 | Problem Name | Difficulty |
@@ -334,6 +341,7 @@
 | [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
