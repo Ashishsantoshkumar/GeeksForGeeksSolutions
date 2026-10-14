@@ -12,12 +12,14 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 | [panagram-checking](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/panagram-checking/) | Easy |
 
 ## Zoho
@@ -151,6 +153,16 @@
 | ------- | ------- |
 | [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
 
+## Accolite
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
+
+## Ola Cabs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -163,7 +175,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -332,6 +346,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
+| [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 
@@ -340,7 +355,13 @@
 | ------- | ------- |
 | [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 
+## Count Perfect Squares
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
