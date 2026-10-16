@@ -196,6 +196,7 @@
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -348,6 +349,7 @@
 | [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
+| [mean-and-median-of-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/mean-and-median-of-array/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 
 ## Program Find Sum Prime Numbers 1 N
@@ -361,6 +363,7 @@
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
