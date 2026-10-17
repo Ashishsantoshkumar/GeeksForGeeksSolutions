@@ -13,6 +13,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -163,6 +164,11 @@
 | ------- | ------- |
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 
+## NPCI
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -176,7 +182,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -240,6 +248,7 @@
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
+| [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
@@ -289,6 +298,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
+| [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## All Variations Of Stock Problems
@@ -351,6 +361,7 @@
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [mean-and-median-of-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/mean-and-median-of-array/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
+| [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 
 ## Program Find Sum Prime Numbers 1 N
 | Problem Name | Difficulty |
@@ -363,6 +374,7 @@
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
