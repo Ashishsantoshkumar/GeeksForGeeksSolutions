@@ -14,6 +14,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -169,6 +170,11 @@
 | ------- | ------- |
 | [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 
+## Drishti-Soft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -183,7 +189,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -357,6 +365,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-primes-in-set-from-1-to-n](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0sum-of-primes-in-set-from-1-to-n/) | Easy |
+| [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [mean-and-median-of-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/mean-and-median-of-array/) | Easy |
@@ -373,7 +382,13 @@
 | ------- | ------- |
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
 
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
