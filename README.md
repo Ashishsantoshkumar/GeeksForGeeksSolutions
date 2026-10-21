@@ -16,6 +16,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
+| [count-frequent-elements](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-frequent-elements/) | Easy |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 | [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
@@ -192,7 +194,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -256,6 +260,7 @@
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
+| [count-frequent-elements](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-frequent-elements/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
@@ -325,6 +330,7 @@
 ## Searching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-frequent-elements](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-frequent-elements/) | Easy |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
 | [super-primes](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/super-primes/) | Medium |
 | [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
@@ -391,6 +397,7 @@
 | [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
