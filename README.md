@@ -220,6 +220,7 @@
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -240,6 +241,7 @@
 | ------- | ------- |
 | [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+| [largest-pair-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/largest-pair-sum/) | Easy |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
 ## Sorting
@@ -262,6 +264,7 @@
 | [0two-sum-in-sorted-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0two-sum-in-sorted-array/) | Easy |
 | [count-frequent-elements](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-frequent-elements/) | Easy |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
+| [largest-pair-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/largest-pair-sum/) | Easy |
 | [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 | [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
@@ -331,6 +334,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-frequent-elements](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-frequent-elements/) | Easy |
+| [largest-pair-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/largest-pair-sum/) | Easy |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
 | [super-primes](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/super-primes/) | Medium |
 | [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
@@ -397,6 +401,7 @@
 | [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
