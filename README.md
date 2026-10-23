@@ -17,6 +17,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -114,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
+| [repeated-character](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/repeated-character/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## TCS
@@ -195,7 +197,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -229,6 +233,7 @@
 | ------- | ------- |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [panagram-checking](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/panagram-checking/) | Easy |
+| [repeated-character](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/repeated-character/) | Easy |
 | [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 
 ## Pangram Checking
@@ -401,6 +406,7 @@
 | [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
