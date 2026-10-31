@@ -18,6 +18,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -39,6 +40,7 @@
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [count-frequent-elements](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-frequent-elements/) | Easy |
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 | [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
@@ -58,6 +60,7 @@
 ## Facebook
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Intel
@@ -116,6 +119,7 @@
 | ------- | ------- |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 | [repeated-character](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/repeated-character/) | Easy |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## TCS
@@ -133,6 +137,7 @@
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## IBM
@@ -164,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-perfect-squares](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-perfect-squares/) | Basic |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 
 ## Ola Cabs
 | Problem Name | Difficulty |
@@ -198,7 +204,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -274,6 +282,7 @@
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
 | [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Hash
@@ -405,7 +414,13 @@
 | ------- | ------- |
 | [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
 
+## sliding-window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
