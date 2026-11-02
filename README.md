@@ -19,6 +19,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -186,6 +187,11 @@
 | ------- | ------- |
 | [count-numbers-with-digit-4](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/count-numbers-with-digit-4/) | Easy |
 
+## Jabong
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [numbers-with-0-as-digit](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-with-0-as-digit/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -205,7 +211,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -397,6 +405,7 @@
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [mean-and-median-of-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/mean-and-median-of-array/) | Easy |
 | [numbers-containing-1-2-and-3](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-containing-1-2-and-3/) | Easy |
+| [numbers-with-0-as-digit](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-with-0-as-digit/) | Medium |
 | [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 
 ## Program Find Sum Prime Numbers 1 N
@@ -419,7 +428,18 @@
 | ------- | ------- |
 | [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 
+## Numbers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [numbers-with-0-as-digit](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-with-0-as-digit/) | Medium |
+
+## Count Numbers Having 0 As A Digit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [numbers-with-0-as-digit](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-with-0-as-digit/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
