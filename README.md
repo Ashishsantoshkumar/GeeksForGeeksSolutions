@@ -20,6 +20,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -43,6 +44,7 @@
 | [maximum-number-in-string](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/maximum-number-in-string/) | Easy |
 | [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
+| [symmetric-tree](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/symmetric-tree/) | Easy |
 | [uncommon-characters](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/uncommon-characters/) | Easy |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
 
@@ -51,6 +53,7 @@
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
+| [symmetric-tree](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/symmetric-tree/) | Easy |
 | [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
 
 ## Bloomberg
@@ -212,7 +215,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -438,7 +443,13 @@
 | ------- | ------- |
 | [numbers-with-0-as-digit](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-with-0-as-digit/) | Medium |
 
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [symmetric-tree](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/symmetric-tree/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
