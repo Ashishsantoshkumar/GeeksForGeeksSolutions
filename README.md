@@ -21,6 +21,7 @@
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -33,6 +34,7 @@
 ## Zoho
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [sort-in-specific-order](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-in-specific-order/) | Medium |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 | [unique-rows-in-boolean-matrix](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/unique-rows-in-boolean-matrix/) | Easy |
 
@@ -52,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
+| [sort-in-specific-order](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-in-specific-order/) | Medium |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 | [symmetric-tree](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/symmetric-tree/) | Easy |
 | [ternary-search](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/ternary-search/) | Medium |
@@ -216,7 +219,9 @@
 
 
 
+
 <hr>
+
 
 
 
@@ -276,6 +281,7 @@
 | [0top-k-frequent-in-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/0top-k-frequent-in-array/) | Medium |
 | [distinct-triplets-with-given-sum](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/distinct-triplets-with-given-sum/) | Easy |
 | [minimum-sum-of-absolute-differences-of-pairs](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/minimum-sum-of-absolute-differences-of-pairs/) | Easy |
+| [sort-in-specific-order](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-in-specific-order/) | Medium |
 | [sort-two-parts-sorted](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-two-parts-sorted/) | Easy |
 
 ## Sort Array Two Halves Sorted
@@ -296,6 +302,7 @@
 | [rotate-array-clockwise](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/rotate-array-clockwise/) | Easy |
 | [search-in-a-k-step-array](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/search-in-a-k-step-array/) | Easy |
 | [smallest-subarray-sum-greater-than-x](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/smallest-subarray-sum-greater-than-x/) | Easy |
+| [sort-in-specific-order](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-in-specific-order/) | Medium |
 | [stock-buy-and-sell-max-one-transaction-allowed](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/stock-buy-and-sell-max-one-transaction-allowed/) | Easy |
 
 ## Hash
@@ -437,6 +444,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [numbers-with-0-as-digit](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/numbers-with-0-as-digit/) | Medium |
+| [sort-in-specific-order](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/sort-in-specific-order/) | Medium |
 
 ## Count Numbers Having 0 As A Digit
 | Problem Name | Difficulty |
@@ -449,6 +457,7 @@
 | [symmetric-tree](https://github.com/Ashishsantoshkumar/GeeksForGeeksSolutions/tree/main/symmetric-tree/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
